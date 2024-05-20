@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author astbe
+ *
+ */
+module AlkeWalletProyect {
+}
